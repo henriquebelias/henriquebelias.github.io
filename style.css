@@ -1,0 +1,16 @@
+body  {
+  background-color: #BCF8EC;
+  color:  #003366;
+}
+
+h1 {
+  font-family: Arial;
+}
+
+#descricao {
+  font-family: Helvetica;
+}
+
+strong {
+font-size: 20px;
+}

@@ -1,6 +1,8 @@
 body  {
   background-color: #BCF8EC;
   color:  #003366;
+  margin: 35px;
+  padding: 35px;
 }
 
 h1 {
@@ -22,24 +24,26 @@ font-size: 20px;
 
 #description {
   float: right;
-  width: 70%;
+  width: 60%;
+  text-align: center;
 }
 
 #foto {
   width: 50%;
   padding: 10px;
   background-color: #003366;
-  margin-left: 100px;
 }
 
 #img-container {
   float: left;
-  width: 30%;
+  width: 40%;
+  text-align: center;
+  padding: 0px;
 }
 
 #content {
   float: right;
-  width: 70%;
+  width: 55%;
 }
 
 .odd-list {

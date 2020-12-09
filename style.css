@@ -1,14 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body  {
   background-color: #BCF8EC;
   color:  #003366;
   margin: 35px;
   padding: 35px;
+  box-sizing: border-box;
 }
 
 h1 {

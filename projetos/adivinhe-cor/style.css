@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background: url(aquarela.jpg) no-repeat;
+  background-size: cover;
+}
+
+.ball {
+  border: 1px solid black;
+  border-radius: 50%;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+}
+
+.container {
+  background-color: hsla(0, 0%, 80%, 80%);
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+}

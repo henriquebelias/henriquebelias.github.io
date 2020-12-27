@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+.lista-tarefas {
+ text-align: left;
+}

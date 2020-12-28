@@ -1,8 +1,14 @@
+html {
+  background: url(palette.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-  background: url(palette.jpg) no-repeat;
   box-sizing: border-box;
   text-align: center;
-  background-size: cover;
   position: relative;
   top: 50px;
 }

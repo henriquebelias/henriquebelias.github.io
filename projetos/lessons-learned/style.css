@@ -59,20 +59,20 @@ table {
   border-radius: 15px;
 }
 
+.content {
+  display: flex;
+  margin: 20px;
+}
+
 .lado-esquerdo {
-  float: left;
-  width: 50%;
   border: 1px solid gray;
-  margin: 10px;
-  padding: 10px;
+  flex: 1 60%;
+  margin-right: 15px;
 }
 
 .lado-direito {
-  float: right;
-  width: 40%;
   border: 1px solid gray;
-  padding: 10px;
-  margin: 30px 10px 0 0;
+  flex: 1 40%;
 }
 
 #rodape {

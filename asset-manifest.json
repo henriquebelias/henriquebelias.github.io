@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/henriquebelias.github.io/static/css/main.372257fb.chunk.css",
+    "main.js": "/henriquebelias.github.io/static/js/main.82002d6e.chunk.js",
+    "main.js.map": "/henriquebelias.github.io/static/js/main.82002d6e.chunk.js.map",
+    "runtime-main.js": "/henriquebelias.github.io/static/js/runtime-main.99a7c282.js",
+    "runtime-main.js.map": "/henriquebelias.github.io/static/js/runtime-main.99a7c282.js.map",
+    "static/js/2.bb76aae0.chunk.js": "/henriquebelias.github.io/static/js/2.bb76aae0.chunk.js",
+    "static/js/2.bb76aae0.chunk.js.map": "/henriquebelias.github.io/static/js/2.bb76aae0.chunk.js.map",
+    "static/js/3.64f72ae8.chunk.js": "/henriquebelias.github.io/static/js/3.64f72ae8.chunk.js",
+    "static/js/3.64f72ae8.chunk.js.map": "/henriquebelias.github.io/static/js/3.64f72ae8.chunk.js.map",
+    "index.html": "/henriquebelias.github.io/index.html",
+    "static/css/main.372257fb.chunk.css.map": "/henriquebelias.github.io/static/css/main.372257fb.chunk.css.map",
+    "static/js/2.bb76aae0.chunk.js.LICENSE.txt": "/henriquebelias.github.io/static/js/2.bb76aae0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a7c282.js",
+    "static/js/2.bb76aae0.chunk.js",
+    "static/css/main.372257fb.chunk.css",
+    "static/js/main.82002d6e.chunk.js"
+  ]
+}

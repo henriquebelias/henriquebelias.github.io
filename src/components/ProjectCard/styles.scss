@@ -1,0 +1,12 @@
+$accent-color: #199d00;
+
+.project-card {
+  border: 2px solid $accent-color;
+  height: 15em;
+  width: 15em;
+
+  @media screen and (max-width: 480px) {
+    height: 10em;
+    width: 10em;
+  }
+}

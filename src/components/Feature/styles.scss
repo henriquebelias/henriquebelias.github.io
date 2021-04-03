@@ -1,0 +1,37 @@
+$accent-color: #199d00;
+
+
+.feature-projects {
+  background-color: 	#808080;
+  color: white;
+  text-align: center;
+
+  h1 {
+    font-size: 2rem;
+    padding-top: 1em;
+    margin-bottom: 1em;
+
+    @media screen and (max-width: 480px) {
+      font-size: 1.5rem;
+    }
+  }
+
+  .projects-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    @media screen and (min-width: 1025px) {
+      flex-direction: row;
+    }
+
+    div {
+      margin-bottom: 1em;
+
+      @media screen and (min-width: 1025px) {
+        margin-right: 1em;
+      }
+    }
+  }
+}

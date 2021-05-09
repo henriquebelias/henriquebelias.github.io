@@ -5,7 +5,7 @@ import Header from '../components/Header';
 const Home = () => (
   <>
     <Header />
-    <Link to="/pokedex">Pokedex</Link>
+    <Link to="/pokedex/">Pokedex</Link>
   </>
 );
 

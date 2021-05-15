@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import Home from './pages/Home';
+import LandingPage from './pages/LandingPage';
 import GlobalStyle from './globalStyles';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <>
       <GlobalStyle />
       <Switch>
-        <Route path="/" component={ Home } />
+        <Route path="/" component={ LandingPage } />
       </Switch>
     </>
   );
